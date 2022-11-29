@@ -14,7 +14,6 @@
     display: flex;
     align-items: center;
     background: linear-gradient(270deg, #21ABCE -14.17%, #2EAD98 99.47%);
-    max-width: 350px;
     overflow: hidden;
 }
 
@@ -205,5 +204,9 @@ img {
 
     .header-logo-img {
         margin: 0 20px 0 120px;
+    }
+
+    .header-logo-text {
+        padding-right: 0;
     }
 }
